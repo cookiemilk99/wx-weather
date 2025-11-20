@@ -21,24 +21,24 @@ import os
 # 和风天气的url格式https://your_api_host/geo/v2/city/lookup
 
 # 哪天在一起的
-start_date = 'START_DATE'
+start_date = '2025-10-29'
 # 和风天气key
-appKey = 'APP_KEY'
+appKey = '4ad31d60048c482390ace0e7cf69a44b'
 # 生日
-birthday = 'BIRTHDAY'
+birthday = '2026-05-11'
 # 微信公众号的appid和app_secret
-app_id = "APP_ID"
-app_secret = "APP_SECRET"
+app_id = "wx339b5740136a261e"
+app_secret = "5e624486f77bafd4eb3afb42498b41ae"
 # 微信公众号的user_id,多个用;（分号）隔开
-user_ids = "USER_IDS"
+user_ids = "oIItw2FuJjdFXyYkDf_eY8pSqFJU"
 # 白天模板id
-template_id_day = "TEMPLATE_ID_NIGHT"
+template_id_day = "DOWXG9koHGBxk-NtQhtWsQW1qTViU6HgaET00wE8s5U"
 # 晚上模板id
-template_id_night = "TEMPLATE_ID_NIGHT"
+template_id_night = "FgOKBqYfUeB0Ed4ZEhOYTwV4yJcFYQ9Db62jg8goCxA"
 # 呢称
-name = 'NAME'
+name = '小田'
 # 城市
-city = 'CITY'
+city = '北京'
 
 
 # 当前时间
